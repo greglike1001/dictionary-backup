@@ -1,0 +1,2287 @@
+Log file created.
+2015-11-22 12:38:14.846929 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => a
+)
+
+2015-11-22 12:38:14.849251 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [word] => a
+            [original] => a
+            [description] => habitual verbal prefix (Sulaymani
+dialect); see da-
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [word] => a
+            [original] => a
+            [description] => ه directional suffix on verbs: chûmà
+shâr I went to town
+        )
+
+    [2] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [3] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [4] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [5] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [6] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [7] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+    [8] => Array
+        (
+            [id] => 3
+            [word] => adab
+            [original] => adab
+            [description] => ئهدهب literature, culture; ~î ئهدهبى
+literary; ~iyât ئهدهبيات literature; ~parwar
+ئهدهبپهروهر patron of literature; be~
+ئهدهب / impolite; be~î ئهدهبى / impoliteness
+        )
+
+    [9] => Array
+        (
+            [id] => 112
+            [word] => adami
+            [original] => âdamî
+            [description] =>  ئادهمی human being; ~zâ(d) human
+being
+        )
+
+)
+
+2015-11-22 12:40:41.619501 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => âborî
+)
+
+2015-11-22 12:40:41.622081 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+)
+
+2015-11-22 12:40:54.143959 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 12:40:54.145466 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:40:55.282708 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 12:40:55.283232 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:46:22.102555 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 12:46:22.104066 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:46:29.828709 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => âbłoqa
+)
+
+2015-11-22 12:46:29.829261 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+)
+
+2015-11-22 12:46:30.160991 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => âbło
+)
+
+2015-11-22 12:46:30.161490 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+)
+
+2015-11-22 12:46:31.119757 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => âb
+)
+
+2015-11-22 12:46:31.120304 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:46:32.129620 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => âb
+)
+
+2015-11-22 12:46:32.136840 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:47:15.142190 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => test
+)
+
+2015-11-22 12:47:15.162720 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+)
+
+2015-11-22 12:47:18.489982 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => test
+)
+
+2015-11-22 12:47:18.490603 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+)
+
+2015-11-22 12:50:56.207838 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => b
+)
+
+2015-11-22 12:50:56.210380 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 457
+            [word] => b
+            [original] => bóya 
+            [description] => بۆیه for that reason
+        )
+
+    [1] => Array
+        (
+            [id] => 213
+            [word] => b-
+            [original] => b-
+            [description] =>  pres. stem of bûn
+        )
+
+    [2] => Array
+        (
+            [id] => 214
+            [word] => ba
+            [original] => ba
+            [description] =>  به (with enclitic pronouns pre- or
+postposed, pe âä پ ) to; by, with (instrumental);
+by (with passives): hîchit pe
+nâkire nothing can be done by you
+        )
+
+    [3] => Array
+        (
+            [id] => 298
+            [word] => ba
+            [original] => bâ1 ∂ hortatory particle
+            [description] =>  (+ subj): bâ
+biroyn c’mon, let’s go
+        )
+
+    [4] => Array
+        (
+            [id] => 299
+            [word] => ba
+            [original] => bâ2 ∂ wind; ~-dân for the wind to blow
+            [description] => ;
+~gař گهڕ ∂ whirlwind; ~hoz ∂هۆز
+whirlwind
+        )
+
+    [5] => Array
+        (
+            [id] => 215
+            [word] => ba-
+            [original] => ba-1
+            [description] =>  به 1 for compound adjectives formed
+from ba-, such as barez, bakhabar,
+banâwbâng, see next element
+        )
+
+    [6] => Array
+        (
+            [id] => 216
+            [word] => ba-
+            [original] => ba-2
+            [description] =>  به pres. stem of birdin
+        )
+
+    [7] => Array
+        (
+            [id] => 300
+            [word] => bab
+            [original] => bâb
+            [description] =>  ب∂ father
+        )
+
+    [8] => Array
+        (
+            [id] => 301
+            [word] => bab
+            [original] => Bâb i ‘Âlî
+            [description] =>  بى `الى ∂ the Sublime Porte, office
+man Empireof the grand vizier of the Otto-
+        )
+
+    [9] => Array
+        (
+            [id] => 302
+            [word] => babat
+            [original] => bâbat
+            [description] =>  بهت ∂: la ~…awa about, concerning:
+la ~ minawa adwân they were
+talking about me; (2) worthy: ama ~ i
+to niya this is not worthy of you
+        )
+
+)
+
+2015-11-22 12:50:56.945008 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => ba
+)
+
+2015-11-22 12:50:56.945623 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 214
+            [word] => ba
+            [original] => ba
+            [description] =>  به (with enclitic pronouns pre- or
+postposed, pe âä پ ) to; by, with (instrumental);
+by (with passives): hîchit pe
+nâkire nothing can be done by you
+        )
+
+    [1] => Array
+        (
+            [id] => 298
+            [word] => ba
+            [original] => bâ1 ∂ hortatory particle
+            [description] =>  (+ subj): bâ
+biroyn c’mon, let’s go
+        )
+
+    [2] => Array
+        (
+            [id] => 299
+            [word] => ba
+            [original] => bâ2 ∂ wind; ~-dân for the wind to blow
+            [description] => ;
+~gař گهڕ ∂ whirlwind; ~hoz ∂هۆز
+whirlwind
+        )
+
+    [3] => Array
+        (
+            [id] => 215
+            [word] => ba-
+            [original] => ba-1
+            [description] =>  به 1 for compound adjectives formed
+from ba-, such as barez, bakhabar,
+banâwbâng, see next element
+        )
+
+    [4] => Array
+        (
+            [id] => 216
+            [word] => ba-
+            [original] => ba-2
+            [description] =>  به pres. stem of birdin
+        )
+
+    [5] => Array
+        (
+            [id] => 300
+            [word] => bab
+            [original] => bâb
+            [description] =>  ب∂ father
+        )
+
+    [6] => Array
+        (
+            [id] => 301
+            [word] => bab
+            [original] => Bâb i ‘Âlî
+            [description] =>  بى `الى ∂ the Sublime Porte, office
+man Empireof the grand vizier of the Otto-
+        )
+
+    [7] => Array
+        (
+            [id] => 302
+            [word] => babat
+            [original] => bâbat
+            [description] =>  بهت ∂: la ~…awa about, concerning:
+la ~ minawa adwân they were
+talking about me; (2) worthy: ama ~ i
+to niya this is not worthy of you
+        )
+
+    [8] => Array
+        (
+            [id] => 217
+            [word] => badbakht
+            [original] => badbakht
+            [description] =>  بهدبهخت unfortunate; ~î بهدبه
+ختى misfortune; bo ~î unfortunately
+        )
+
+    [9] => Array
+        (
+            [id] => 303
+            [word] => bafin
+            [original] => bâfîn
+            [description] =>  فين ∂ v.t. to weave
+        )
+
+)
+
+2015-11-22 12:51:04.655644 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => r
+)
+
+2015-11-22 12:51:04.658168 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 2488
+            [word] => ra
+            [original] => râ 
+            [description] => را view, opinion
+        )
+
+    [1] => Array
+        (
+            [id] => 2489
+            [word] => ra-
+            [original] => râ- 
+            [description] => را cmpd. vb. agent; see under the verbal
+element: râ-bwârdin, râ-girtin, râhâtin,
+râ-henân, râ-keshân, râ-wastân
+        )
+
+    [2] => Array
+        (
+            [id] => 2490
+            [word] => ra-bun
+            [original] => râ-bûn 
+            [description] => رابوون to be awakened, roused; la
+khaw ~ to be roused from sleep
+        )
+
+    [3] => Array
+        (
+            [id] => 2493
+            [word] => ra-chanin
+            [original] => râ-chanîn, 
+            [description] => la khaw هنين Π هو را L v to wake
+from sleep with a start
+        )
+
+    [4] => Array
+        (
+            [id] => 2499
+            [word] => ra-kirdin
+            [original] => râ-kirdin 
+            [description] => ردن B‰ ر v.t. to run
+        )
+
+    [5] => Array
+        (
+            [id] => 2491
+            [word] => rabirdu
+            [original] => râbirdû 
+            [description] => ردوو ñ را last, past: rozh i shamma
+i ~ last Saturday; la chand sada i ~’dâ
+over the last several centuries
+        )
+
+    [6] => Array
+        (
+            [id] => 2492
+            [word] => raburdu
+            [original] => râburdû 
+            [description] => رابوردوو = râbirdû
+        )
+
+    [7] => Array
+        (
+            [id] => 2462
+            [word] => rachalak
+            [original] => rachałak 
+            [description] => هک T ه Π ره root; ~-birînawa v.t.
+to uproot, eradicate
+        )
+
+    [8] => Array
+        (
+            [id] => 2463
+            [word] => rachaw
+            [original] => rachâw 
+            [description] => او Π ره observation; ~-kirdin v.t.
+to observe
+        )
+
+    [9] => Array
+        (
+            [id] => 2464
+            [word] => rachaw
+            [original] => rachâw 
+            [description] => او Π ره observation; ~-kirdin v.t.
+        )
+
+)
+
+2015-11-22 12:51:05.109960 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => ro
+)
+
+2015-11-22 12:51:05.111047 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 2570
+            [word] => ro
+            [original] => ro 
+            [description] => رۆ = rozh
+        )
+
+    [1] => Array
+        (
+            [id] => 2571
+            [word] => rochin
+            [original] => rochin 
+            [description] => رۆچن window, skylight: ~akán
+bikaynawa let’s open the windows
+        )
+
+    [2] => Array
+        (
+            [id] => 2572
+            [word] => rola
+            [original] => roła 
+            [description] => هT رۆ child
+        )
+
+    [3] => Array
+        (
+            [id] => 2573
+            [word] => roman
+            [original] => român 
+            [description] => رۆمان story
+        )
+
+    [4] => Array
+        (
+            [id] => 2574
+            [word] => ron
+            [original] => ron 
+            [description] => رۆن oil, grease, fat
+        )
+
+    [5] => Array
+        (
+            [id] => 2575
+            [word] => roshin
+            [original] => roshin 
+            [description] => رۆشن bright; ~bîr رۆش8ن“ير intellectual,
+enlightened; ~-kirdin v.t. to
+light, turn on, start (machines)
+        )
+
+    [6] => Array
+        (
+            [id] => 2576
+            [word] => rostam
+            [original] => Rostam 
+            [description] => رۆس8تهم Rustam, the legendary
+champion of Iran
+        )
+
+    [7] => Array
+        (
+            [id] => 2577
+            [word] => royshtin
+            [original] => royshtin 
+            [description] => شتن ß رۆ ro- رۆ v.i. to go (away,
+off), leave
+        )
+
+    [8] => Array
+        (
+            [id] => 2578
+            [word] => rozh
+            [original] => rozh 
+            [description] => رۆژ day; ~âna رۆژانه daily; ~(h)alât
+تü رۆژهه east, orient, dawn: rozhałât i
+nâwrâst the Middle East; ~hałâtnâs
+تناس ü روژهه orientalist; ~âwâ رۆژاوا
+west; ~èkyân ک;ان § رۆژ one day; ~nâma
+مه á رۆژ newspaper; ~nâmanûs
+مهنووس á رۆژ journalist
+        )
+
+    [9] => Array
+        (
+            [id] => 2579
+            [word] => rozhgar
+            [original] => rozhgâr 
+            [description] => رۆژگار days, time: la ~ân i
+kon’dâ in olden times; fate
+        )
+
+)
+
+2015-11-22 12:51:06.297644 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => roj
+    [1] => rozh
+)
+
+2015-11-22 12:51:06.298431 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 2578
+            [word] => rozh
+            [original] => rozh 
+            [description] => رۆژ day; ~âna رۆژانه daily; ~(h)alât
+تü رۆژهه east, orient, dawn: rozhałât i
+nâwrâst the Middle East; ~hałâtnâs
+تناس ü روژهه orientalist; ~âwâ رۆژاوا
+west; ~èkyân ک;ان § رۆژ one day; ~nâma
+مه á رۆژ newspaper; ~nâmanûs
+مهنووس á رۆژ journalist
+        )
+
+    [1] => Array
+        (
+            [id] => 2579
+            [word] => rozhgar
+            [original] => rozhgâr 
+            [description] => رۆژگار days, time: la ~ân i
+kon’dâ in olden times; fate
+        )
+
+    [2] => Array
+        (
+            [id] => 2580
+            [word] => rozhu
+            [original] => rozhû 
+            [description] => رۆژوو fasting; ~-girtin to fast
+        )
+
+)
+
+2015-11-22 12:52:33.513301 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => king
+)
+
+2015-11-22 12:52:33.514725 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+)
+
+2015-11-22 12:53:18.561887 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => quest
+)
+
+2015-11-22 12:53:18.563932 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+)
+
+2015-11-22 12:53:19.904355 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => question
+)
+
+2015-11-22 12:53:19.904810 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+)
+
+2015-11-22 12:54:00.168383 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 12:54:00.169101 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:54:01.903310 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 12:54:01.911150 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:55:43.218854 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 12:55:43.221020 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:55:49.542496 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => âb
+)
+
+2015-11-22 12:55:49.543294 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:55:50.818178 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => âb
+)
+
+2015-11-22 12:55:50.819026 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:58:06.779900 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => a
+)
+
+2015-11-22 12:58:06.973200 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [word] => a
+            [original] => a
+            [description] => habitual verbal prefix (Sulaymani
+dialect); see da-
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [word] => a
+            [original] => a
+            [description] => ه directional suffix on verbs: chûmà
+shâr I went to town
+        )
+
+    [2] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [3] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [4] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [5] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [6] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [7] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+    [8] => Array
+        (
+            [id] => 3
+            [word] => adab
+            [original] => adab
+            [description] => ئهدهب literature, culture; ~î ئهدهبى
+literary; ~iyât ئهدهبيات literature; ~parwar
+ئهدهبپهروهر patron of literature; be~
+ئهدهب / impolite; be~î ئهدهبى / impoliteness
+        )
+
+    [9] => Array
+        (
+            [id] => 112
+            [word] => adami
+            [original] => âdamî
+            [description] =>  ئادهمی human being; ~zâ(d) human
+being
+        )
+
+)
+
+2015-11-22 12:58:06.215178 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 12:58:06.216021 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:58:08.992590 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 12:58:08.993057 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 12:59:36.619965 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => battle
+)
+
+2015-11-22 12:59:36.622682 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+)
+
+2015-11-22 12:59:42.499230 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => mar
+)
+
+2015-11-22 12:59:42.499807 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 1817
+            [word] => mar
+            [original] => mař 
+            [description] => مهڕ sheep
+        )
+
+    [1] => Array
+        (
+            [id] => 1865
+            [word] => mar
+            [original] => mâr 
+            [description] => مار snake
+        )
+
+    [2] => Array
+        (
+            [id] => 1866
+            [word] => mara
+            [original] => mâra 
+            [description] => ماره marriage; ~-kirdin la v.t. to
+give in marriage to: kichaká i khoy le
+mâra kird he gave him his daughter in
+marriage; ~î مارهئى wedding gift
+        )
+
+    [3] => Array
+        (
+            [id] => 1818
+            [word] => marad
+            [original] => marad 
+            [description] => مهرهد state, condition
+        )
+
+    [4] => Array
+        (
+            [id] => 1867
+            [word] => marakul
+            [original] => mârakuł 
+            [description] => وڵ B ماره scorpion
+        )
+
+    [5] => Array
+        (
+            [id] => 1819
+            [word] => maraq
+            [original] => marâq 
+            [description] => مهراق wishing, wondering; la ~ i
+…dâ bûn v.i. to wonder about
+        )
+
+    [6] => Array
+        (
+            [id] => 1820
+            [word] => march
+            [original] => march 
+            [description] => مهرچ mashed, squashed; ~în مه
+ين Π ر v.i. to be mashed, squashed;
+~ândin اندن Π مهر v.t. to mash, squash
+        )
+
+    [7] => Array
+        (
+            [id] => 1821
+            [word] => marez
+            [original] => marez 
+            [description] => ز § مهر sick, ill; ~khâna انه L ز § مهر
+infirmary
+        )
+
+    [8] => Array
+        (
+            [id] => 1822
+            [word] => marez
+            [original] => marez 
+            [description] => marg مهرگ death
+        )
+
+    [9] => Array
+        (
+            [id] => 1823
+            [word] => marhum
+            [original] => marḥûm 
+            [description] => مهرحووم the late
+        )
+
+)
+
+2015-11-22 13:00:25.788769 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 13:00:25.789544 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 13:00:27.140581 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 13:00:27.141262 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 13:01:28.651034 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => fruit
+)
+
+2015-11-22 13:01:28.667721 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+)
+
+2015-11-22 13:01:56.791248 UTC kurdish [] [123.243.92.28] [DEBUG] search words: Array
+(
+    [0] => old
+)
+
+2015-11-22 13:01:56.793304 UTC kurdish [] [123.243.92.28] [DEBUG] results: Array
+(
+)
+
+2015-11-22 13:03:06.329733 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 13:03:06.331661 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 13:03:07.267030 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 13:03:07.267610 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 13:03:19.302317 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => abc
+)
+
+2015-11-22 13:03:19.302892 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+)
+
+2015-11-22 13:03:20.325840 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => a
+)
+
+2015-11-22 13:03:20.326826 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [word] => a
+            [original] => a
+            [description] => habitual verbal prefix (Sulaymani
+dialect); see da-
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [word] => a
+            [original] => a
+            [description] => ه directional suffix on verbs: chûmà
+shâr I went to town
+        )
+
+    [2] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [3] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [4] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [5] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [6] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [7] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+    [8] => Array
+        (
+            [id] => 3
+            [word] => adab
+            [original] => adab
+            [description] => ئهدهب literature, culture; ~î ئهدهبى
+literary; ~iyât ئهدهبيات literature; ~parwar
+ئهدهبپهروهر patron of literature; be~
+ئهدهب / impolite; be~î ئهدهبى / impoliteness
+        )
+
+    [9] => Array
+        (
+            [id] => 112
+            [word] => adami
+            [original] => âdamî
+            [description] =>  ئادهمی human being; ~zâ(d) human
+being
+        )
+
+)
+
+2015-11-22 13:03:22.869870 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => a
+)
+
+2015-11-22 13:03:22.876610 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [word] => a
+            [original] => a
+            [description] => habitual verbal prefix (Sulaymani
+dialect); see da-
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [word] => a
+            [original] => a
+            [description] => ه directional suffix on verbs: chûmà
+shâr I went to town
+        )
+
+    [2] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [3] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [4] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [5] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [6] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [7] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+    [8] => Array
+        (
+            [id] => 3
+            [word] => adab
+            [original] => adab
+            [description] => ئهدهب literature, culture; ~î ئهدهبى
+literary; ~iyât ئهدهبيات literature; ~parwar
+ئهدهبپهروهر patron of literature; be~
+ئهدهب / impolite; be~î ئهدهبى / impoliteness
+        )
+
+    [9] => Array
+        (
+            [id] => 112
+            [word] => adami
+            [original] => âdamî
+            [description] =>  ئادهمی human being; ~zâ(d) human
+being
+        )
+
+)
+
+2015-11-22 13:04:03.666612 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 13:04:03.667921 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 13:04:04.632640 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 13:04:04.633257 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 13:06:25.714564 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 13:06:25.718980 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-11-22 13:06:26.927839 UTC kurdish [] [188.190.58.115] [DEBUG] search words: Array
+(
+    [0] => ab
+)
+
+2015-11-22 13:06:26.928462 UTC kurdish [] [188.190.58.115] [DEBUG] results: Array
+(
+    [0] => Array
+        (
+            [id] => 105
+            [word] => ab
+            [original] => âb
+            [description] =>  ئاب August
+        )
+
+    [1] => Array
+        (
+            [id] => 106
+            [word] => abloqa
+            [original] => âbłoqa
+            [description] =>  ۆقه k ئاب siege; ~-dân v.t. to besiege
+        )
+
+    [2] => Array
+        (
+            [id] => 111
+            [word] => abori
+            [original] => âborî
+            [description] =>  ئابۆری economy, economic
+        )
+
+    [3] => Array
+        (
+            [id] => 107
+            [word] => abru
+            [original] => âbřû
+            [description] =>  وو g  ñ ئا honor, modesty, shame; ~-
+birdin v.t. to dishonor, shame; ~-
+tikândin v.t. to dishonor; ~bar
+ووبهر g  ñ ئا shameful, dishonorable;
+        )
+
+    [4] => Array
+        (
+            [id] => 109
+            [word] => abuhawa
+            [original] => âbuhawâ
+            [description] =>  ئابوههوا climate
+        )
+
+    [5] => Array
+        (
+            [id] => 110
+            [word] => abunman
+            [original] => âbunmân
+            [description] =>  ئابونمان subscription
+        )
+
+)
+
+2015-12-19 10:46:35.970436 UTC kurdish [] [93.142.254.116] [ERROR] Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'kurdish.word_tbl' doesn't exist
+)
+
+2015-12-19 10:46:36.578360 UTC kurdish [] [93.142.254.116] [ERROR] Error: DB::select(): Can't execute query.
+2015-12-19 10:49:56.301876 UTC kurdish [] [93.142.254.116] [ERROR] Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'kurdish.word_tbl' doesn't exist
+)
+
+2015-12-19 10:49:56.364801 UTC kurdish [] [93.142.254.116] [ERROR] Error: DB::select(): Can't execute query.
+2015-12-19 10:52:14.709876 UTC kurdish [] [93.142.254.116] [ERROR] Error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'word_id' in order clause is ambiguous
+2015-12-19 10:52:25.570433 UTC kurdish [] [93.142.254.116] [ERROR] Error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'word_id' in order clause is ambiguous
+2015-12-19 10:53:15.529192 UTC kurdish [] [93.142.254.116] [ERROR] Error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'word_id' in order clause is ambiguous
+2015-12-19 10:53:28.448342 UTC kurdish [] [93.142.254.116] [ERROR] Error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'word_id' in order clause is ambiguous
+2015-12-19 10:53:51.141617 UTC kurdish [] [93.142.254.116] [ERROR] Error: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'word_id' in order clause is ambiguous
+2015-12-19 18:38:13.673852 UTC kurdish [] [93.142.254.116] [ERROR] [/home/peertutor/public_html/kurdish/api.php:168] (8) Undefined offset: 5
+2015-12-19 18:42:19.615250 UTC kurdish [] [93.142.254.116] [ERROR] [/home/peertutor/public_html/kurdish/api.php:168] (8) Undefined offset: 5
+2015-12-19 18:49:24.197380 UTC kurdish [] [93.142.254.116] [ERROR] [/home/peertutor/public_html/kurdish/api.php:168] (8) Undefined offset: 5
+2015-12-19 19:12:55.559677 UTC kurdish [] [93.142.254.116] [ERROR] [/home/peertutor/public_html/kurdish/api.php:167] (8) Undefined offset: 5
+2015-12-19 19:13:13.187176 UTC kurdish [] [93.142.254.116] [ERROR] [/home/peertutor/public_html/kurdish/api.php:167] (8) Undefined offset: 5
+2015-12-19 19:17:19.800980 UTC kurdish [] [93.142.254.116] [ERROR] [/home/peertutor/public_html/kurdish/api.php:167] (8) Undefined offset: 15
+2015-12-20 13:03:18.441410 UTC kurdish [] [123.243.92.28] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2015-12-20 15:01:23.592081 UTC kurdish [] [91.125.77.189] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2015-12-22 04:11:53.971735 UTC kurdish [] [74.179.118.174] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2015-12-24 12:02:25.770195 UTC kurdish [] [83.36.221.73] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2015-12-28 12:52:14.213620 UTC kurdish [] [112.210.207.113] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2015-12-28 13:38:48.398525 UTC kurdish [] [123.243.92.28] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2015-12-29 09:45:57.448168 UTC kurdish [] [36.80.109.63] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2015-12-31 06:13:26.663010 UTC kurdish [] [66.249.79.34] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2016-01-02 05:11:23.629452 UTC kurdish [] [66.249.74.73] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2016-01-04 11:14:20.768616 UTC kurdish [] [110.93.199.22] [ERROR] [/home/peertutor/public_html/kurdish/api.php:169] (8) Undefined offset: 15
+2016-01-10 01:26:38.837920 UTC kurdish [] [66.249.79.34] [ERROR] [/home/peertutor/public_html/kurdish/api.php:168] (8) Undefined offset: 15
+2016-01-11 01:29:59.246137 UTC kurdish [] [123.243.92.28] [ERROR] [/home/peertutor/public_html/kurdish/api.php:168] (8) Undefined offset: 15
+2016-01-11 01:31:36.225478 UTC kurdish [] [109.88.49.179] [ERROR] [/home/peertutor/public_html/kurdish/api.php:168] (8) Undefined offset: 15

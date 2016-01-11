@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /index.php
+Allow: /faq.html
+Allow: /contact.html
+
+
+Sitemap: http://Ku2en.com/sitemap.xml
