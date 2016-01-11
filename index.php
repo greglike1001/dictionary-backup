@@ -315,6 +315,7 @@ if ($result->num_rows > 0) {
 //  <h3 id="lastWordH1" class="title"></h3><p id="lastWordP1" class="intro"></p>
                                                                 
      echo    '<h3 id="lastWordH1" class="title">'.mb_strtolower($row["kurdish_en"], 'UTF-8').'</h3>';
+     echo    '<h3 id="lastWordH1" class="title">'.mb_strtolower($row["kurdish_ku"], 'UTF-8').'</h3>';
      
         echo   '<p id="lastWordP1" class="intro">'.mb_strtolower($row["definition"], 'UTF-8').'</p>';
         echo    '<hr><p> Submitted by:<b> ' . $row["username"] . '</b>';
